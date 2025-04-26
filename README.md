@@ -33,6 +33,26 @@ List of the useful Czech websites (FREE).
 
 – The most popular Search engine in Czech republic - Google based
 
+* [sosej](https://sosej.eu/)
+
+– Torrent search engine
+
+* [ČSFD](https://www.csfd.cz/)
+
+– Movie database
+
+* [Databáze knih](https://www.databazeknih.cz/)
+
+– Book database
+
+* [pdfknihy maxzone](https://pdfknihy.maxzone.eu/index.html)
+
+– Free book database in PDF
+
+* [Webshare](https://webshare.cz) / [Fastshare](https://fastshare.cloud/)
+
+– Searching files
+
 * [1188](https://seznam.1188.cz/) / [Zlaté stranky](https://www.zlatestranky.cz/)
 
 – Phone number search engine by name and address
