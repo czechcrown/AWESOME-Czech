@@ -73,6 +73,10 @@ List of the useful Czech websites (FREE).
 
 – Public Register and Collection of Deeds
 
+* [NIC](https://www.nic.cz/)
+
+– Register of website
+
 * [ČKP](https://ic.ckp.cz/ICwww/servlet?_page=searchSPZ&lngID=1) / [epojištění](https://www.epojisteni.cz/) / [SPZ epeníze](https://spz.penize.cz)
 
 – Search information about State registration plate
