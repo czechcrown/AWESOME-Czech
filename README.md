@@ -1,4 +1,4 @@
-# awesome-Czech-websites
+# AWESOME-Czech
 List of the useful Czech websites (FREE). 
 
 📖 Dictionary / Word finder
