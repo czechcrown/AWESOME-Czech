@@ -49,6 +49,10 @@ List of the useful Czech websites (FREE).
 
 – Real estate cadastre
 
+* [Veřejný rejstřík a sbírka listin](https://or.justice.cz)
+
+– Public Register and Collection of Deeds
+
 * [ČKP](https://ic.ckp.cz/ICwww/servlet?_page=searchSPZ&lngID=1) / [epojištění](https://www.epojisteni.cz/) / [SPZ epeníze](https://spz.penize.cz)
 
 – Search information about State registration plate
