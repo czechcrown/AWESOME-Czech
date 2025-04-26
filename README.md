@@ -77,6 +77,10 @@ List of the useful Czech websites (FREE).
 
 – Trade licenses
 
+* [Evropská databanka](https://www.edb.cz/) / [Firmy](https://www.firmy.cz/)
+
+– Search companies
+
 * [Katastr nemovitostí](https://nahlizenidokn.cuzk.gov.cz/)
 
 – Real estate cadastre
