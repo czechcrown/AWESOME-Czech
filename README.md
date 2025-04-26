@@ -23,6 +23,14 @@ List of the useful Czech websites (FREE).
 
 – Grammar
 
+* [Přehled historie literatury](http://literatura.topsid.com/)
+
+– An overview of the history of literature
+
+* [Studentský underground](https://www.cesky-jazyk.cz/cjl/)
+
+– Website for students with Czech resources
+
 🔎 Search engine
 ---------------
 * [Heexy](https://heexy.org/)
@@ -48,6 +56,10 @@ List of the useful Czech websites (FREE).
 * [pdfknihy maxzone](https://pdfknihy.maxzone.eu/index.html)
 
 – Free book database in PDF
+
+* [Spisovatelé](https://www.spisovatele.cz/)
+
+– Database of writers
 
 * [Webshare](https://webshare.cz) / [Fastshare](https://fastshare.cloud/)
 
