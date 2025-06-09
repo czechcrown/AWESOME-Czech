@@ -96,3 +96,7 @@ List of the useful Czech websites (FREE).
 * [ČKP](https://ic.ckp.cz/ICwww/servlet?_page=searchSPZ&lngID=1) / [epojištění](https://www.epojisteni.cz/) / [SPZ peníze](https://spz.penize.cz)
 
 – Search information about State registration plate
+
+* [prijmeni.cz](https://prijmeni.cz/)
+
+– Search information about specific Last name (even the location)
