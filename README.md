@@ -5,7 +5,7 @@ List of the useful Czech websites (FREE).
 ---------------
 * [Jendadev word finder](https://slova.jenda.dev/)
 
-– Search specific word with specific requirements with REGEX filtets. 
+– Search specific word with specific requirements with REGEX filters. 
 
 * [UJČ příručka](https://prirucka.ujc.cas.cz/)
 
