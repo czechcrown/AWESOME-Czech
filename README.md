@@ -35,7 +35,7 @@ List of the useful Czech websites (FREE).
 ---------------
 * [Heexy](https://heexy.org/)
 
-– New Search engine by Czech people - Custom index
+– New Search engine by Czech people - Metasearch engine + Custom index
 
 * [Seznam](https://search.seznam.cz)
 
