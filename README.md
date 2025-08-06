@@ -100,3 +100,7 @@ List of the useful Czech websites (FREE).
 * [prijmeni.cz](https://prijmeni.cz/)
 
 – Search information about specific Last name (even the location)
+
+* [ARES](https://ares.cz/)
+
+– Search for CZ/SK economic entities
