@@ -1,106 +1,85 @@
 ## AWESOME-Czech [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 List of the useful Czech websites (FREE). 
 
-📖 Dictionary / Word finder
----------------
-* [Jendadev word finder](https://slova.jenda.dev/)
+## 🔎 Vyhledávače a rejstříky
 
-– Search specific word with specific requirements with REGEX filters. 
+**Obecné:**
+* **[Heexy](https://heexy.org/)** - Meta search engine + vlastní index
+* **[Seznam](https://search.seznam.cz)** - Populární český vyhledávač, co využívá Google výsledky
+* **[Centrum](https://search.centrum.cz/)** - Český vyhledávač (využívá google výsledky)
+* **[CZIN](https://fulltext.czin.eu/)** - Český vyhledávač (využívá google výsledky)
+* **[Divoch](https://hledej.divoch.net/)** - Český vyhledávač (vlastní index)
+* **[Linkovník](https://www.linkovnik.com/)** - Český vyhledávač (vlastní index)
+* **[Superlink](https://www.superlink.cz/)** - Český vyhledávač (vlastní index)
+* **[Jednorožec](https://jednorozec.cz/)** - Český vyhledávač (využívá google výsledky)
+* **[all-url](https://cz.all-url.info/)** - Vyhledávač CZ domén
 
-* [UJČ příručka](https://prirucka.ujc.cas.cz/)
+**Firmy a rejstříky:**
+* **[ARES](https://ares.cz/)** / **[RZP](https://www.rzp.cz/portal)** - Ekonomické subjekty a živnosti
+* **[Veřejný rejstřík](https://or.justice.cz)** / **[Katastr nemovitostí](https://nahlizenidokn.cuzk.cz/)** - Veřejné rejstříky
+* **[Firmy](https://www.firmy.cz/)** / **[Evropská databanka](https://www.edb.cz/)** - Vyhledávání firem
+* **[NIC](https://www.nic.cz/)** - Registr domén
 
-– UJČ dictionary / guide
+**Telefony a osoby:**
+* **[1188](https://seznam.1188.cz/)** / **[Zlaté stránky](https://www.zlatestranky.cz/)** - Telefonní čísla podle jména
+* **[Callinsider](https://www.callinsider.cz/)** / **[Můžu to zvednout?](https://www.muzutozvednout.cz/)** - Hodnocení čísel
+* **[prijmeni.cz](https://prijmeni.cz/)** - Informace o příjmeních
 
-* [Slovník češtiny](https://slovnikcestiny.cz/)
+**Auta:**
+* **[ČKP](https://ic.ckp.cz/ICwww/servlet?_page=searchSPZ&lngID=1)** / **[epojištění](https://www.epojisteni.cz/)** / **[SPZ peníze](https://spz.penize.cz)** - Registrační značky
 
-– Academic Dictionary of Contemporary Czech
+**Doktoři:**
+* **[Národní registr poskytovatelů zdravotních služeb](https://nrpzs.uzis.cz/)**
+* **[Známý lékař](https://www.znamylekar.cz/)**
+---
 
-* [Czechency](https://www.czechency.org/)
+## 📖 Jazyk a vzdělávání
 
-– Czech dictionary encyclopedia
+* **[UJČ příručka](https://prirucka.ujc.cas.cz/)** / **[Slovník češtiny](https://slovnikcestiny.cz/)** - Slovníky ČJ
+* **[Jendadev word finder](https://slova.jenda.dev/)** - Vyhledávání slov s REGEX
+* **[Pravopisně](https://www.pravopisne.cz/)** / **[Pravopis Česky](https://www.pravopiscesky.cz/)** - Gramatika a pravopis
+* **[Czechency](https://www.czechency.org/)** - Česká encyklopedie
+* **[Přehled historie literatury](http://literatura.topsid.com/)** / **[Studentský underground](https://www.cesky-jazyk.cz/cjl/)** - Literatura a zdroje pro studenty
+* **[Vyučovací materiály](https://www.vyukovematerialy.eu/)** - Materiály pro studenty
+* **[Cermat](https://cermat.cz/)** - Přijímačky / Maturity ([Klikni zde zda chceš najít přijímačky nanečisto](https://paste.red/raw/6b2fbfde2d86))
 
-* [Pravopisně](https://www.pravopisne.cz/) / [Pravopis Česky](https://www.pravopiscesky.cz/) / [Czech online](https://www.czechonline.org/gramatika)
+---
 
-– Grammar
+## 📺 Streamování a filmy
 
-* [Přehled historie literatury](http://literatura.topsid.com/)
+* **[ČSFD](https://www.csfd.cz/)** - Filmová databáze
+* **[DabingForum](https://dabingforum.cz/)** / **[DabDB](https://www.dabdb.cz/)** - Databáze dabingů
+* **[Sledujteto](https://www.sledujteto.cz/)** / **[PlayMe](https://playme.wtf/)** / **[Dupe](https://dupe.cz/)** - Filmy / TV / Anime / 1080p
+* **[Bombuj](https://bombuj.si/)** / **[filmbot](https://filmbot.tv/)** / **[streamuj](https://streamuj.online/)** - Filmy / TV / Anime
+* **[svetserialu](https://svetserialu.io/)** / **[sledujfilmy](https://ww.sledujfilmy.io/)** / **[najserialy](https://www.najserialy.io/)** - Filmy / TV / 1080p
+* **[mrkni](https://mrkni.tv/)** / **[mrkaj](https://mrkaj.si/)** / **[uzi](https://uzi.si)** - Filmy / TV (některé geoblokovány)
+* **[Ceskatelevize](https://www.ceskatelevize.cz/ivysilani/)** - Oficiální iVysílání
+* **[StarStreams](https://starstreams.pro/)** - Živý sport
 
-– An overview of the history of literature
+---
 
-* [Studentský underground](https://www.cesky-jazyk.cz/cjl/)
+## ⬇️ Stahování a sdílení
 
-– Website for students with Czech resources
+**Úložiště:**
+* **[uschovna](https://www.uschovna.cz/)** / **[posilej](https://posilej.cz/)** - Sdílení souborů
+* **[Webshare](https://webshare.cz/)** / **[Fastshare](https://fastshare.cloud/)** - Filehosting
 
-🔎 Search engine
----------------
-* [Heexy](https://heexy.org/)
+**Warez a torrenty:**
+* **[War-Forum](https://war-forum.net/)** / **[WarezCenter](https://warcenter.cz/)** - Video / Audio / Knihy / NSFW
+* **[sktorrent](https://sktorrent.eu/)** / **[sosej](https://sosej.eu/)** - Torrenty
+* **[hellspy](https://hellspy.to/)** - Video (geoblokováno)
 
-– New Search engine by Czech people - Metasearch engine + Custom index
+---
 
-* [Seznam](https://search.seznam.cz)
+## 📚 Knihy a čtení
 
-– The most popular Search engine in Czech republic - Google based
+* **[Databáze knih](https://www.databazeknih.cz/)** / **[Spisovatelé](https://www.spisovatele.cz/)** - Databáze knih a autorů
+* **[pdfknihy](https://pdfknihy.maxzone.eu/index.html)** / **[eknihovna](https://eknihovna.maxzone.eu/index.html)** - Knihy zdarma
+* **[ebookforum](https://ebookforum.sk/)** / **[xTrance](https://xtrance.info/)** - E-knihy ke stažení
+* **[WebArchive](https://webarchiv.cz/)** - Webový archiv
 
-* [sosej](https://sosej.eu/)
+---
 
-– Torrent search engine
+*Tento seznam je vytvořen pouze pro informační účely.*
 
-* [ČSFD](https://www.csfd.cz/)
-
-– Movie database
-
-* [Databáze knih](https://www.databazeknih.cz/)
-
-– Book database
-
-* [pdfknihy maxzone](https://pdfknihy.maxzone.eu/index.html)
-
-– Free book database in PDF
-
-* [Spisovatelé](https://www.spisovatele.cz/)
-
-– Database of writers
-
-* [Webshare](https://webshare.cz) / [Fastshare](https://fastshare.cloud/)
-
-– Searching files
-
-* [1188](https://seznam.1188.cz/) / [Zlaté stranky](https://www.zlatestranky.cz/)
-
-– Phone number search engine by name and address
-
-* [Callinsider](https://www.callinsider.cz/) / [Můžu to zvednout?](https://www.muzutozvednout.cz/)
-
-– Search infomation about Phone number and rating
-
-* [Registr ekonomických subjektů](https://apl.czso.cz/res/) / [RZP](https://www.rzp.cz/portal)
-
-– Trade licenses
-
-* [Evropská databanka](https://www.edb.cz/) / [Firmy](https://www.firmy.cz/)
-
-– Search companies
-
-* [Katastr nemovitostí](https://nahlizenidokn.cuzk.gov.cz/)
-
-– Real estate cadastre
-
-* [Veřejný rejstřík a sbírka listin](https://or.justice.cz)
-
-– Public Register and Collection of Deeds
-
-* [NIC](https://www.nic.cz/)
-
-– Register of website
-
-* [ČKP](https://ic.ckp.cz/ICwww/servlet?_page=searchSPZ&lngID=1) / [epojištění](https://www.epojisteni.cz/) / [SPZ peníze](https://spz.penize.cz)
-
-– Search information about State registration plate
-
-* [prijmeni.cz](https://prijmeni.cz/)
-
-– Search information about specific Last name (even the location)
-
-* [ARES](https://ares.cz/)
-
-– Search for CZ/SK economic entities
+Zdroj pro část stránek: [https://fmhy.net](https://fmhy.net/non-english#czech-cestina)
