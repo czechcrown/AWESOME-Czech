@@ -15,6 +15,7 @@ List of the useful Czech websites (FREE).
 * **[all-url](https://cz.all-url.info/)** - Vyhledávač CZ domén
 
 **Firmy a rejstříky:**
+* **[Hlídač státu](https://www.hlidacstatu.cz/)** - Nástroj pro kontrolu smluv, dotací a propojení firem na stát
 * **[ARES](https://ares.cz/)** / **[RZP](https://www.rzp.cz/portal)** - Ekonomické subjekty a živnosti
 * **[Veřejný rejstřík](https://or.justice.cz)** / **[Katastr nemovitostí](https://nahlizenidokn.cuzk.cz/)** - Veřejné rejstříky
 * **[Firmy](https://www.firmy.cz/)** / **[Evropská databanka](https://www.edb.cz/)** - Vyhledávání firem
@@ -47,7 +48,7 @@ List of the useful Czech websites (FREE).
 
 ## 📺 Streamování a filmy
 
-* **[ČSFD](https://www.csfd.cz/)** - Filmová databáze
+* **[ČSFD](https://www.csfd.cz/)** / **[Kinobox](https://www.kinobox.cz/)** - Filmová databáze
 * **[DabingForum](https://dabingforum.cz/)** / **[DabDB](https://www.dabdb.cz/)** - Databáze dabingů
 * **[Sledujteto](https://www.sledujteto.cz/)** / **[PlayMe](https://playme.wtf/)** / **[Dupe](https://dupe.cz/)** - Filmy / TV / Anime / 1080p
 * **[Bombuj](https://bombuj.si/)** / **[filmbot](https://filmbot.tv/)** / **[streamuj](https://streamuj.online/)** - Filmy / TV / Anime
