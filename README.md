@@ -74,7 +74,7 @@ List of the useful Czech websites (FREE).
 * **[Webshare](https://webshare.cz/)** / **[Fastshare](https://fastshare.cloud/)** - Filehosting
 
 **Warez a torrenty:**
-* **[War-Forum](https://war-forum.net/)** / **[WarezCenter](https://warcenter.cz/)** - Video / Audio / Knihy / NSFW
+* **[War-Forum](https://war-forum.net/)** / **[WarezCenter](https://warcenter.cz/)** / **[WarForum](http://www.warforum.xyz/)** - Video / Audio / Knihy / NSFW
 * **[sktorrent](https://sktorrent.eu/)** / **[sosej](https://sosej.eu/)** - Torrenty
 * **[hellspy](https://hellspy.to/)** - Video (geoblocked)
 
