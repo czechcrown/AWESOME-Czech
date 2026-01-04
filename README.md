@@ -17,6 +17,7 @@ List of the useful Czech websites (FREE).
 **Firmy a rejstříky:**
 * **[Hlídač státu](https://www.hlidacstatu.cz/)** - Nástroj pro kontrolu smluv, dotací a propojení firem na stát
 * **[ARES](https://ares.cz/)** / **[RZP](https://www.rzp.cz/portal)** - Ekonomické subjekty a živnosti
+* **[IRIS](https://isir.justice.cz/)** - Insolvenční rejstřík
 * **[Veřejný rejstřík](https://or.justice.cz)** / **[Katastr nemovitostí](https://nahlizenidokn.cuzk.cz/)** - Veřejné rejstříky
 * **[Firmy](https://www.firmy.cz/)** / **[Evropská databanka](https://www.edb.cz/)** - Vyhledávání firem
 * **[NIC](https://www.nic.cz/)** - Registr domén
@@ -32,6 +33,7 @@ List of the useful Czech websites (FREE).
 **Doktoři:**
 * **[Národní registr poskytovatelů zdravotních služeb](https://nrpzs.uzis.cz/)**
 * **[Známý lékař](https://www.znamylekar.cz/)**
+
 ---
 
 ## 📖 Jazyk a vzdělávání
@@ -41,8 +43,12 @@ List of the useful Czech websites (FREE).
 * **[Pravopisně](https://www.pravopisne.cz/)** / **[Pravopis Česky](https://www.pravopiscesky.cz/)** - Gramatika a pravopis
 * **[Czechency](https://www.czechency.org/)** - Česká encyklopedie
 * **[Přehled historie literatury](http://literatura.topsid.com/)** / **[Studentský underground](https://www.cesky-jazyk.cz/cjl/)** - Literatura a zdroje pro studenty
+* **[ireferáty](https://ireferaty.cz/)** - Referáty
 * **[Vyučovací materiály](https://www.vyukovematerialy.eu/)** - Materiály pro studenty
 * **[Cermat](https://cermat.cz/)** - Přijímačky / Maturity ([Klikni zde zda chceš najít přijímačky nanečisto](https://paste.red/raw/6b2fbfde2d86))
+* **[ČT EDU](https://edu.ceskatelevize.cz/)** - Vzdělávací videa
+* **[1KŠPA KLADNO](https://1kspa-kladno.cz/studijni-materialy/)** - Studijní materiály od 1KŠPA
+* **[Uč se online](https://www.ucseonline.cz/)** - Studijní materiály
 
 ---
 
