@@ -17,7 +17,7 @@ List of the useful Czech websites (FREE).
 **Firmy a rejstříky:**
 * **[Hlídač státu](https://www.hlidacstatu.cz/)** - Nástroj pro kontrolu smluv, dotací a propojení firem na stát
 * **[ARES](https://ares.cz/)** / **[RZP](https://www.rzp.cz/portal)** - Ekonomické subjekty a živnosti
-* **[IRIS](https://isir.justice.cz/)** - Insolvenční rejstřík
+* **[ISIR](https://isir.justice.cz/)** - Insolvenční rejstřík
 * **[Veřejný rejstřík](https://or.justice.cz)** / **[Katastr nemovitostí](https://nahlizenidokn.cuzk.cz/)** - Veřejné rejstříky
 * **[Firmy](https://www.firmy.cz/)** / **[Evropská databanka](https://www.edb.cz/)** - Vyhledávání firem
 * **[NIC](https://www.nic.cz/)** - Registr domén
