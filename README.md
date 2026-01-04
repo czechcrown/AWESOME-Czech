@@ -55,6 +55,8 @@ List of the useful Czech websites (FREE).
 * **[mrkni](https://mrkni.tv/)** / **[mrkaj](https://mrkaj.si/)** / **[uzi](https://uzi.si)** - Filmy / TV (některé geoblokovány)
 * **[Ceskatelevize](https://www.ceskatelevize.cz/ivysilani/)** - Oficiální iVysílání
 * **[StarStreams](https://starstreams.pro/)** - Živý sport
+* **[sweet.tv](https://sweet.tv/cs/free_tv)** - Online televize zdarma (Funguje pouze s Českou/Slovenskou IP a je třeba přes extension Ublock origin vymazat [tento](https://paste.red/raw/81c2453a65ba) element pro odstranění login okna)
+* **[antolikpiestany IPTV](https://github.com/antolikpiestany/CZ-IPTV)** / **[znelkytv IPTV](https://github.com/znelkytv/IPTV-CZ-SK)** / **[iptv.org](https://github.com/iptv-org/iptv/blob/master/streams/cz.m3u)** - Televize (m3u)
 
 ---
 
@@ -67,7 +69,7 @@ List of the useful Czech websites (FREE).
 **Warez a torrenty:**
 * **[War-Forum](https://war-forum.net/)** / **[WarezCenter](https://warcenter.cz/)** - Video / Audio / Knihy / NSFW
 * **[sktorrent](https://sktorrent.eu/)** / **[sosej](https://sosej.eu/)** - Torrenty
-* **[hellspy](https://hellspy.to/)** - Video (geoblokováno)
+* **[hellspy](https://hellspy.to/)** - Video (geoblocked)
 
 ---
 
