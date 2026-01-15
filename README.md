@@ -29,7 +29,7 @@ List of the useful Czech websites (FREE).
 
 **Auta:**
 * **[ČKP](https://ic.ckp.cz/ICwww/servlet?_page=searchSPZ&lngID=1)** / **[epojištění](https://www.epojisteni.cz/)** / **[SPZ peníze](https://spz.penize.cz)** - Registrační značky
-* **[dataovozidlech](https://dataovozidlech.cz/)** / **[kontrolaotachometru](https://kontrolatachometru.cz)** - kontrola vozidla přes VIN
+* **[dataovozidlech](https://dataovozidlech.cz/)** / **[kontrolatachometru](https://kontrolatachometru.cz)** - kontrola vozidla přes VIN
 
 **Doktoři:**
 * **[Národní registr poskytovatelů zdravotních služeb](https://nrpzs.uzis.cz/)**
