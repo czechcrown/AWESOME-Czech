@@ -100,6 +100,18 @@ List of the useful Czech websites (FREE).
 * **[Geekboy slevy](https://www.geekboy.cz/slevy/)** - Vyhledávač zajimavých slev
 * **[Heureka](https://www.heureka.cz/)** - Porovnávač cen
 
+---
+
+# 🗺️ Mapy a doprava
+
+* **[pid](https://pid.cz/hledani-spojeni/)** / **[spojenka](https://www.spojenka.cz/spojeni/)** / **[mpvnet](https://mpvnet.cz/)** / **[tram-bus](https://www.tram-bus.cz/ceska-republika/aktualni-poloha-vozidel-vhd-v-krajich)** - Mapa/hledání spojů
+* **[mapy](https://mapy.com/)** - Mapy
+* **[bezpecne cesty](https://www.bezpecnecesty.cz/cz/dopravni-informace-mapy/aktualni-dopravni-info)** / **[policie dopr. info](https://aplikace.policie.gov.cz/dopravni-informace/)** - Dopravní info
+* **[hajzlfinder](https://www.hajzlfinder.com/)** - Mapa záchodů
+* **[vozejkmap](https://www.vozejkmap.cz/)** - Mapa bezbarierových služeb
+
+---
+
 *Tento seznam je vytvořen pouze pro informační účely.*
 
 Zdroj pro část stránek: [https://fmhy.net](https://fmhy.net/non-english#czech-cestina)
