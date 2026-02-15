@@ -94,7 +94,7 @@ List of the useful Czech websites (FREE).
 
 # 🛍️ Nákupy
 
-* **[FuckCards](https://fuckcards.store/)** / **[NoCard](https://nocard.cz/)** - Zákaznické karty
+* **[FuckCards](https://fuckcards.store/)** / **[NoCard](https://nocard.cz/) ([android app](https://github.com/HelloOO7/Karticky))** - Zákaznické karty
 * **[Hlídač shopů](https://www.hlidacshopu.cz/)** - Hlídač slev
 * **[NajdiSlevu](https://www.najdislevu.cz/)** - najdi slevy produktů/letáky
 * **[Geekboy slevy](https://www.geekboy.cz/slevy/)** - Vyhledávač zajimavých slev
