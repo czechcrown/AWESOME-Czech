@@ -98,7 +98,7 @@ List of the useful Czech websites (FREE).
 * **[Hlídač shopů](https://www.hlidacshopu.cz/)** - Hlídač slev
 * **[NajdiSlevu](https://www.najdislevu.cz/)** - najdi slevy produktů/letáky
 * **[Geekboy slevy](https://www.geekboy.cz/slevy/)** - Vyhledávač zajimavých slev
-* **[Heureka](https://www.heureka.cz/)** - Porovnávač cen
+* **[Heureka](https://www.heureka.cz/)** / **[zbozi](https://zbozi.cz)** - Agregátor eshopů
 
 ---
 
