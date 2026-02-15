@@ -71,8 +71,9 @@ List of the useful Czech websites (FREE).
 ## ⬇️ Stahování a sdílení
 
 **Úložiště:**
-* **[uschovna](https://www.uschovna.cz/)** / **[posilej](https://posilej.cz/)** / **[Nahrajsoubor](https://nahrajsoubor.cz/)** - Sdílení souborů
-* **[Webshare](https://webshare.cz/)** / **[Fastshare](https://fastshare.cloud/)** / **[Datoid](https://datoid.to)** / **[edisk](https://edisk.cz)** / **[sdilej](https://sdilej.cz)** - Filehosting
+* **[uschovna](https://www.uschovna.cz/)** / **[posilej](https://posilej.cz/)** / **[Nahrajsoubor](https://nahrajsoubor.cz/)** / **[xdisk](https://xdisk.cz)** - Sdílení souborů
+* **[Webshare](https://webshare.cz/)** / **[Fastshare](https://fastshare.cloud/)** / **[Datoid](https://datoid.to)** / **[edisk](https://edisk.cz)** / **[sdilej](https://sdilej.cz)** / **[nahnoji](http://nahnoji.cz/hledej?q=text)** - Filehosting
+* **[Mojevideo](https://www.mojevideo.sk/)** / **[čeknito](https://www.ceknito.cz/)** - Videa
 
 **Warez, torrenty a forumy:**
 * **[War-Forum](https://war-forum.net/)** / **[WarezCenter](https://warcenter.cz/)** / **[WarForum](http://www.warforum.xyz/)** - Video / Audio / Knihy / NSFW
