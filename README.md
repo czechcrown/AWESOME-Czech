@@ -62,7 +62,7 @@ List of the useful Czech websites (FREE).
 * **[svetserialu](https://svetserialu.io/)** / **[sledujfilmy](https://ww.sledujfilmy.io/)** / **[najserialy](https://www.najserialy.io/)** - Filmy / TV / 1080p
 * **[mrkni](https://mrkni.tv/)** / **[mrkaj](https://mrkaj.si/)** / **[uzi](https://uzi.si)** - Filmy / TV (některé geoblokovány)
 * **[Ceskatelevize](https://www.ceskatelevize.cz/ivysilani/)** - Oficiální iVysílání
-* **[StarStreams](https://starstreams.pro/)** - Živý sport
+* **~[StarStreams](https://starstreams.pro/)~** - Živý sport - nefunguje
 * **[sweet.tv](https://sweet.tv/cs/free_tv)** - Online televize zdarma (Funguje pouze s Českou/Slovenskou IP a je třeba přes extension Ublock origin vymazat [tento](https://paste.red/raw/81c2453a65ba) element pro odstranění login okna)
 * **[antolikpiestany IPTV](https://github.com/antolikpiestany/CZ-IPTV)** / **[znelkytv IPTV](https://github.com/znelkytv/IPTV-CZ-SK)** / **[iptv.org](https://github.com/iptv-org/iptv/blob/master/streams/cz.m3u)** - Televize (m3u)
 
@@ -90,6 +90,14 @@ List of the useful Czech websites (FREE).
 * **[WebArchive](https://webarchiv.cz/)** - Webový archiv
 
 ---
+
+# 🛍️ Nákupy
+
+* **[FuckCards](https://fuckcards.store/)** / **[NoCard](https://nocard.cz/)** - Zákaznické karty
+* **[Hlídač shopů](https://www.hlidacshopu.cz/)** - Hlídač slev
+* **[NajdiSlevu](https://www.najdislevu.cz/)** - najdi slevy produktů/letáky
+* **[Geekboy slevy](https://www.geekboy.cz/slevy/)** - Vyhledávač zajimavých slev
+* **[Heureka](https://www.heureka.cz/)** - Porovnávač cen
 
 *Tento seznam je vytvořen pouze pro informační účely.*
 
