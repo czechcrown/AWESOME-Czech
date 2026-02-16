@@ -60,6 +60,7 @@ List of the useful Czech websites (FREE).
 * **[Sledujteto](https://www.sledujteto.cz/)** / **[PlayMe](https://playme.wtf/)** / **[Dupe](https://dupe.cz/)** / **[prehraj.to](https://prehraj.to/)** - Filmy / TV / Anime / 1080p
 * **[Bombuj](https://bombuj.si/)** / **[filmbot](https://filmbot.tv/)** / **[streamuj](https://streamuj.online/)** - Filmy / TV / Anime
 * **[svetserialu](https://svetserialu.io/)** / **[sledujfilmy](https://ww.sledujfilmy.io/)** / **[najserialy](https://www.najserialy.io/)** - Filmy / TV / 1080p
+* **[tuuto](https://tuu.to)** / **[serialyzadara](https://serialyzadara.com/)** - Filmy / TV
 * **[mrkni](https://mrkni.tv/)** / **[mrkaj](https://mrkaj.si/)** / **[uzi](https://uzi.si)** - Filmy / TV (některé geoblokovány)
 * **[Ceskatelevize](https://www.ceskatelevize.cz/ivysilani/)** - Oficiální iVysílání
 * **~[StarStreams](https://starstreams.pro/)~** - Živý sport - nefunguje
