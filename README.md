@@ -57,13 +57,13 @@ List of the useful Czech websites (FREE).
 
 * **[ČSFD](https://www.csfd.cz/)** / **[Kinobox](https://www.kinobox.cz/)** - Filmová databáze
 * **[DabingForum](https://dabingforum.cz/)** / **[DabDB](https://www.dabdb.cz/)** - Databáze dabingů
-* **[Sledujteto](https://www.sledujteto.cz/)** / **[PlayMe](https://playme.wtf/)** / **[Dupe](https://dupe.cz/)** / **[prehraj.to](https://prehraj.to/)** - Filmy / TV / Anime / 1080p
+* **[Sledujteto](https://www.sledujteto.cz/)** / **[Prehraj.video](https://prehraj.video/)** / **[Dupe](https://dupe.cz/)** / **[prehraj.to](https://prehraj.to/)** - Filmy / TV / Anime / 1080p
 * **[Bombuj](https://bombuj.si/)** / **[filmbot](https://filmbot.tv/)** / **[streamuj](https://streamuj.online/)** - Filmy / TV / Anime
 * **[svetserialu](https://svetserialu.io/)** / **[sledujfilmy](https://ww.sledujfilmy.io/)** / **[najserialy](https://www.najserialy.io/)** - Filmy / TV / 1080p
 * **[tuuto](https://tuu.to)** / **[serialyzadara](https://serialyzadara.com/)** - Filmy / TV
-* **[mrkni](https://mrkni.tv/)** / **[mrkaj](https://mrkaj.si/)** / **[uzi](https://uzi.si)** - Filmy / TV (některé geoblokovány)
+* **[mrkni](https://mrkni.tv/)** / **[mrkaj](https://mrkaj.me/)** / **[uzi](https://uzi.la)** - Filmy / TV (některé geoblokovány)
 * **[Ceskatelevize](https://www.ceskatelevize.cz/ivysilani/)** - Oficiální iVysílání
-* **~[StarStreams](https://starstreams.pro/)~** - Živý sport - nefunguje
+* **~[Sportik](https://sportik.lol/)~** - Živý sport
 * **[sweet.tv](https://sweet.tv/cs/free_tv)** - Online televize zdarma (Funguje pouze s Českou/Slovenskou IP a je třeba přes extension Ublock origin vymazat [tento](https://paste.red/raw/81c2453a65ba) element pro odstranění login okna)
 * **[antolikpiestany IPTV](https://github.com/antolikpiestany/CZ-IPTV)** / **[znelkytv IPTV](https://github.com/znelkytv/IPTV-CZ-SK)** / **[iptv.org](https://github.com/iptv-org/iptv/blob/master/streams/cz.m3u)** - Televize (m3u)
 
